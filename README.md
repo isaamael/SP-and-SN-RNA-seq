@@ -1,6 +1,6 @@
 ---
 
-### 3. `README.md`
+### README.md
 
 ```markdown
 # Spatially resolved transcriptomics and single-nuclei RNA-seq reveal ”SlCAX3 drives the formation of crystal idioblasts for tomato ion compartmentalization under salt stress“
