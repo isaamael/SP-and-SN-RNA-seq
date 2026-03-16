@@ -15,7 +15,7 @@ The codebase covers the complete downstream analysis of spatial transcriptomics 
 - Trajectory inference (Slingshot, Monocle2) and gene co-expression networks (scWGCNA).
 
 ## Data Availability
-The raw sequencing data and processed matrices (e.g., `.rds` objects and count matrices) required to run these scripts have been deposited in the NCBI Gene Expression Omnibus (GEO) under accession number **[GSEXXXXXX]** *(Update before publication)*.
+The raw sequencing data and processed matrices (e.g., `.rds` objects and count matrices) required to run these scripts have been deposited in the NCBI Gene Expression Omnibus (GEO) under accession number xxxxxx.
 
 ## System Requirements and Dependencies
 All downstream analyses were performed in `R` (version 4.x.x). The major R packages used include:
