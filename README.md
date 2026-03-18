@@ -27,7 +27,7 @@ The raw sequencing data and processed matrices (rds and count matrices) required
 All downstream analyses were performed in `R` (version 4.x.x). The major R packages used include:
 - `Seurat` (v4.3.0) - *Note: Seurat v4 is required for this pipeline.*
 - `CARD` (v1.1)
-- - `CellChat` (v1.6.1)
+- `CellChat` (v1.6.1)
 - `scWGCNA` / `hdWGCNA`
 - `miloR` & `MiloDE`
 - `monocle` (v2.x) & `slingshot`
